@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=haroonwajid&label=Profile%20views&color=0e75b6&style=flat" alt="haroonwajid" /> </p>
 
-- 🌱 I’m currently learning **new tech in the field of AI and Machine Learning**
+- 🌱 I’m currently leveraging **new tech in the field of AI and Machine Learning**
 
 - 👀 I’m interested in **Generative AI**
 
